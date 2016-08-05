@@ -13,3 +13,4 @@ incluye icono para ipad
 incluye favicon
 se recomienda tener habilitada la parte de apis y subscriptores lo puedes modificar en la opción de labs, esto es para un funcionamiento correcto.
 puedes hacer fork del theme y si quieres ver el demo puedes verlo en mi sitio web www.hackemate.ninja es el theme default
+para ver las indicaciones de modificación visitar el siguiente post: http://www.hackemate.ninja/limpia-tema-gratis-para-ghost/
